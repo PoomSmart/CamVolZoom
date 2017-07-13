@@ -1,0 +1,9 @@
+Package: org.thebigboss.camvolzoom
+Name: CamVolZoom
+Depends: mobilesubstrate, firmware (>= 5.0), gsc.still-camera | gsc.front-facing-camera
+Version: 1.2
+Architecture: iphoneos-arm
+Description: Zoom in/out the camera with Volume Buttons!
+Author: PoomSmart
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/CVZSettings.bundle/CamVolZoom@2x.png

@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = "CVZSettings";
+		cell = PSLinkCell;
+		detail = "CVZPreferenceController";
+		icon = "CamVolZoom.png";
+		isController = 1;
+		label = "CamVolZoom";
+	};
+}
